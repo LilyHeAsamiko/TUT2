@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>Resources/Actors/seamunster.png</file>
+    <file>Resources/Actors/vortex.png</file>
+    <file>Resources/Actors/shark.png</file>
+</qresource>
+</RCC>
